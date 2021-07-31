@@ -6,5 +6,5 @@
 :aws-contributors: Carlos Santos, Sr. AWS Solutions Architect, Microsoft Technologies
 :quickstart-contributors: Dave May, AWS Quick Start team
 :deployment_time: 5 minutes
-:default_deployment_region: us-east-1
+:default_deployment_region: eu-west-1
 :parameters_as_appendix:
